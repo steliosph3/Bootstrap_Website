@@ -4,6 +4,9 @@
     box-sizing: border-box;
 }
 
+
+/* Navbar */
+
 .navbar{
     background-color: #FFCC00;
 }
@@ -19,6 +22,7 @@
     position: relative;
     color: #2E302F;
 }
+
 
 .nav-link::after {
     content: '';
@@ -42,6 +46,8 @@
     color: #ffff;
 }
 
+/* Landing Page */
+
 .main{
     background: url(images/landingpage.png)no-repeat;
     background-size: cover;
@@ -49,5 +55,26 @@
     background-position: 50% 50%;
     width: 100%;
 }
+
+/* About Us */
+
+.about {
+    background-color: #FFCC00;
+    font-family: 'Signika', sans-serif;
+}
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
 
 
